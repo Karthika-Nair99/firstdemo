@@ -12,6 +12,7 @@ public class SalesClass {
 	}  
 	public void print() {
 		System.out.println("Print Array");
+		System.out.println("hi");
 		display();
 		
 	}
