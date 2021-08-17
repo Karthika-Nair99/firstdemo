@@ -5,7 +5,7 @@ public class SalesClass {
 		int[] arr= {23,24,25};
 		int sum=0;
 		for(int num:arr) {
-			sum+=1;
+			sum+=num;
 			System.out.println(num);
 		}
 	    System.out.println(sum);
@@ -13,6 +13,7 @@ public class SalesClass {
 	public void print() {
 		System.out.println("Print Array");
 		System.out.println("hi");
+		System.out.println("hey");
 		display();
 		
 	}
