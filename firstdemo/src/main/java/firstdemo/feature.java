@@ -1,6 +1,8 @@
 package firstdemo;
 
 public class feature {
-	public void show() {}
+	public void show() {
+		System.out.println("show");
+	}
 
 }
